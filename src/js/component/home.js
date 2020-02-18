@@ -1,4 +1,5 @@
-import React from "react";
+import React from "./react";
+import {Jumboton} from "/.jumboton";
 import { Navbar } from "./navbar";
 import { Card } from "./card";
 
@@ -13,6 +14,10 @@ export function Home() {
 	return (
 		<>
 			<Navbar />
+            <Jumboton />
+            <Jumboton />
+            <Jumboton />
+            <Jumboton />
 			<Card />
 			<Card />
 			<Card />
