@@ -13,7 +13,7 @@ export function Card() {
                 https://i.pinimg.com/originals/a7/0d/03/a70d03a1c15d95e4daa83a7084f4e9c3.jpg
                 https://i.redd.it/h677ldhjmbp31.jpg"
 					className="card-img-top"
-					alt="..."
+					alt="Card image cap"
 				/>
 				<div className="card-body">
 					<h5 className="card-title">Card title</h5>
