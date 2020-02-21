@@ -3,7 +3,7 @@ import React from "react";
 
 // https://i.redd.it/9eabxyhpefb11.jpg
 
-export function Card() {
+export function Card(PropTypes) {
 	return (
 		<>
 			<div className="card" style={{ width: "300px" }}>
