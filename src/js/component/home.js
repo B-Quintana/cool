@@ -1,5 +1,5 @@
 import React from "react";
-// import { Jumboton } from "/.jumboton";
+import { Jumbotron } from "./jumbotron";
 import { Navbar } from "./navbar";
 import { Card } from "./card";
 
@@ -14,14 +14,13 @@ export function Home() {
 	return (
 		<>
 			<Navbar />
-			{/* <Jumboton />
-            <Jumboton />
-            <Jumboton />
-            <Jumboton /> */}
-			<Card />
-			<Card />
-			<Card />
-			<Card />
+			<Jumbotron />
+
+			<Card myimage="https://i.pinimg.com/474x/97/1c/22/971c2282a34ef7351eac07016a7a2b0b.jpg" />
+
+			<Card myimage="https://i.redd.it/h677ldhjmbp31.jpg" />
+			<Card myimage="https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg" />
+			<Card myimage="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg" />
 		</>
 	);
 }

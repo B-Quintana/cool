@@ -6,7 +6,7 @@ import React from "react";
 export function Card(PropTypes) {
 	return (
 		<>
-			<div className="card" style={{ width: "300px" }}>
+			<div className="card-deck" style={{ width: "300px" }}>
 				<img
 					src="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg
                 https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SL1129_.jpg
