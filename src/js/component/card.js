@@ -10,7 +10,7 @@ export function Card(PropTypes) {
 				<img
 					src="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg
                 https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SL1129_.jpg
-                https://i.pinimg.com/originals/a7/0d/03/a70d03a1c15d95e4daa83a7084f4e9c3.jpg
+                
                 https://i.redd.it/h677ldhjmbp31.jpg"
 					className="card-img-top"
 					alt="Card image cap"
