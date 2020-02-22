@@ -1,5 +1,5 @@
 import React from "react";
-// import Proptypes from "prop-types";
+//import Proptypes from "prop-types";
 
 // https://i.redd.it/9eabxyhpefb11.jpg
 
@@ -29,7 +29,3 @@ export function Card(PropTypes) {
 		</>
 	);
 }
-// Card.propTypes = {
-// 	imgUrl: PropTypes.string,
-// 	title: PropTypes.string
-// };
