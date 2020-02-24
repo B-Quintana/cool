@@ -1,17 +1,13 @@
 import React from "react";
-//import Proptypes from "prop-types";
+import Proptypes from "prop-types";
 
-// https://i.redd.it/9eabxyhpefb11.jpg
 
-export function Card(PropTypes) {
+export function Card(props) {
 	return (
 		<>
 			<div className="card-deck" style={{ width: "300px" }}>
 				<img
-					src="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg
-                https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SL1129_.jpg
-                
-                https://i.redd.it/h677ldhjmbp31.jpg"
+					src={props.myimage}
 					className="card-img-top"
 					alt="Card image cap"
 				/>
@@ -29,3 +25,7 @@ export function Card(PropTypes) {
 		</>
 	);
 }
+
+Greeting.propTypes = {
+  myimage: PropTypes.string
+};
