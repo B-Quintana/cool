@@ -1,6 +1,5 @@
 import React from "react";
-import Proptypes from "prop-types";
-
+import PropTypes from "prop-types";
 
 export function Card(props) {
 	return (
@@ -26,6 +25,6 @@ export function Card(props) {
 	);
 }
 
-Greeting.propTypes = {
-  myimage: PropTypes.string
+Card.PropTypes = {
+	myimage: PropTypes.string
 };
