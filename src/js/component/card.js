@@ -11,8 +11,8 @@ export function Card(props) {
 					alt="Card image cap"
 				/>
 				<div className="card-body">
-					<h5 className="Top Ladies">"Top Ladies"</h5>
-					<p className="card-text">"Top Ladies"</p>
+					<h5 className="Top Ladies">Top Ladies</h5>
+					<p className="card-text">Top Ladies</p>
 					<a href="#" className="btn btn-primary">
 						Go Somewhere
 					</a>
