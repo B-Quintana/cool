@@ -32,7 +32,7 @@ export function Card(props) {
 	);
 
 
-Card.PropTypes
+    (Cards.PropTypes)
       myimage  
                   
 
