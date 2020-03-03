@@ -33,6 +33,7 @@ export function Card(props)
 	);
 
 
+
       Cards.propTypes = {
   name: PropTypes.myimage
 };
