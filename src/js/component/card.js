@@ -34,5 +34,4 @@ export function Card(props) {
 
       Greeting.propTypes = {
   name: PropTypes.string
-};
-      
+}      
