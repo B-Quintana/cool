@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-export function Card(props) {
+export function Cards(props) {
 	let va = [
 		"https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg",
 		"https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg",

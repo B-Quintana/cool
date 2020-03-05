@@ -1,7 +1,7 @@
 import React from "react";
 import { Jumbotron } from "./jumbotron";
 import { Navbar } from "./navbar";
-import { Card } from "./card";
+import { Cards } from "./cards";
 
 //import {myimage} from "./myimage";
 
