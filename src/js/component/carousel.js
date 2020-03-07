@@ -1,3 +1,5 @@
+import React from "react";
+
 <Carousel>
   <Carousel.Item>
     <img
