@@ -22,7 +22,9 @@ let va = [
 	"https://s-media-cache-ak0.pinimg.com/736x/61/29/b8/6129b8973916501c7d6659fda950ab3f.jpg",
 	"https://cdn.yostagram.com/2019/06/eva-lovia-370.jpg",
 	"https://media.santabanta.com/gallery/global%20celebrities(f)/abigail%20mac/abigail-mac-3-d.jpg",
-	"https://i.pinimg.com/originals/fa/3d/34/fa3d3416d34ed8cfe230180bacda2491.jpg"
+	"https://i.pinimg.com/originals/fa/3d/34/fa3d3416d34ed8cfe230180bacda2491.jpg",
+	"https://cloud10.todocoleccion.online/coleccionismo-adultos-otros/tc/2018/06/24/01/126140143.jpg",
+	"https://pbs.twimg.com/media/DLQevBtUMAATApD.jpg"
 ];
 
 export function Home() {
