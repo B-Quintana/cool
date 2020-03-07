@@ -4,7 +4,7 @@ import React from "react";
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=First slide&bg=373940"
+      src="https://isdb.pw/upload2/24610068/1869350902324566159.jpg"
       alt="First slide"
     />
     <Carousel.Caption>
@@ -15,8 +15,8 @@ import React from "react";
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=Second slide&bg=282c34"
-      alt="Third slide"
+      src= "https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg"
+      alt="Third slide holder.js"
     />
 
     <Carousel.Caption>
@@ -27,7 +27,7 @@ import React from "react";
   <Carousel.Item>
     <img 
       className="d-block w-100"
-      src="holder.js/800x400?text=Third slide&bg=20232a"
+      src="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg"
       alt="Third slide"
     />
 

@@ -24,7 +24,11 @@ let va = [
 	"https://media.santabanta.com/gallery/global%20celebrities(f)/abigail%20mac/abigail-mac-3-d.jpg",
 	"https://i.pinimg.com/originals/fa/3d/34/fa3d3416d34ed8cfe230180bacda2491.jpg",
 	"https://cloud10.todocoleccion.online/coleccionismo-adultos-otros/tc/2018/06/24/01/126140143.jpg",
-	"https://pbs.twimg.com/media/DLQevBtUMAATApD.jpg"
+	"https://pbs.twimg.com/media/DLQevBtUMAATApD.jpg",
+	"https://content4.coedcherry.com/briana-lee-cams/213281/briana_lee_03.jpg",
+	"https://i.pinimg.com/736x/70/02/f1/7002f1be8795be5ff20fca9dbf5081eb.jpg",
+	"https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/69479185_237320840564269_4803101861244884844_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=mnj4pWsullsAX9uUxXr&oh=d85f0198fd4a55b8aecd8e2f367b52bb&oe=5E87CEF2",
+	"https://scontent-otp1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/75588042_195664878146874_6288507079440898498_n.jpg?_nc_ht=scontent-otp1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=hB2oiFZ8-lAAX9jK2ne&oh=6f2c909b4a31dd89155c1383f3e777ac&oe=5E7CBFE3"
 ];
 
 export function Home() {
