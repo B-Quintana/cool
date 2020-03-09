@@ -29,7 +29,9 @@ let va = [
 	"https://i.pinimg.com/736x/70/02/f1/7002f1be8795be5ff20fca9dbf5081eb.jpg",
 	"https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/69479185_237320840564269_4803101861244884844_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=mnj4pWsullsAX9uUxXr&oh=d85f0198fd4a55b8aecd8e2f367b52bb&oe=5E87CEF2",
 	"https://scontent-otp1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/75588042_195664878146874_6288507079440898498_n.jpg?_nc_ht=scontent-otp1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=hB2oiFZ8-lAAX9jK2ne&oh=6f2c909b4a31dd89155c1383f3e777ac&oe=5E7CBFE3",
-	"https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/67288117_454207818493693_1816878658577291062_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=H6nZPT7puGsAX-UJetY&oh=3fe163091e1ca71b9d98e34b11859c73&oe=5E8A431A"
+	"https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/67288117_454207818493693_1816878658577291062_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=H6nZPT7puGsAX-UJetY&oh=3fe163091e1ca71b9d98e34b11859c73&oe=5E8A431A",
+    "https://i.pinimg.com/originals/fc/2b/9e/fc2b9ebf40aeaa493228f4fe66d8456d.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMGJjMDg2YTItMjFjOS00NTUzLTk0ZjItOTVlMzE4YWYwNTgwXkEyXkFqcGdeQXVyODEwNjkyNjY@._V1_SY1000_CR0,0,684,1000_AL_.jpg"
 ];
 
 export function Home() {
