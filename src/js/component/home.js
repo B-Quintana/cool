@@ -40,6 +40,10 @@ export function Home() {
 		<>
 			<Navbar />
 			<Jumbotron />
+			<Carousel />
+			<Carousel />
+			<Carousel />
+
 			<div className="card-group d-flex justify-content-center">
 				{va.map((item, index) => (
 					<Cards key={index} myimage={item} />
