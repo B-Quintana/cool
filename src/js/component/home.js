@@ -2,7 +2,7 @@ import React from "react";
 import { Jumbotron } from "./jumbotron";
 import { Navbar } from "./navbar";
 import { Cards } from "./cards";
-import { Carousel } from "./carousel";
+//import { Carousel } from "./carousel";
 
 let va = [
 	"https://isdb.pw/upload2/24610068/1869350902324566159.jpg",
@@ -40,11 +40,11 @@ export function Home() {
 		<>
 			<Navbar />
 			<Jumbotron />
-			<Carousel />
-			<Carousel />
-			<Carousel />
+		
 
-			<div className="card-group d-flex justify-content-center">
+			
+
+			<div className="cards-group d-flex justify-content-center">
 				{va.map((item, index) => (
 					<Cards key={index} myimage={item} />
 				))}
