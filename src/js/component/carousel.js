@@ -3,8 +3,8 @@ import React from "react";
 <Carousel>
 	<Carousel.Item>
 		<img
-			className="d-block w-100"
-			src="https://isdb.pw/upload2/24610068/1869350902324566159.jpg"
+			className="d-block w-100",
+			src="https://www.stylevore.com/wp-content/uploads/2020/02/71340327_182588909444321_3030833370893376633_n-1024x1280.jpg"
 			alt="First slide"
 		/>
 		<Carousel.Caption>

@@ -49,7 +49,7 @@ export const ladies = [
 	},
 	{
 		id: 5,
-		title: "Nikki Benz"
+		title: "Nikki Benz",
 		img: "https://i.pinimg.com/originals/a3/51/43/a351438d3fbdafe93ea04ed78dea6a36.jpg",
 		price: 24,
 		company: "Mafia",
@@ -99,8 +99,8 @@ export const ladies = [
 
 export const detailladies = {
 	id: 1,
-	title: 
-	img: "img/product-1.png",
+	title: "Tori Black",
+	img: "https://www.stylevore.com/wp-content/uploads/2020/02/71340327_182588909444321_3030833370893376633_n-1024x1280.jpg",
 	price: 10,
 	company: "google",
 	info:
