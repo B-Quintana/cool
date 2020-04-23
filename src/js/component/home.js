@@ -5,7 +5,7 @@ import { Cards } from "./cards";
 //import { Carousel } from "./carousel";
 
 let va = [
-	"https://isdb.pw/upload2/24610068/1869350902324566159.jpg",
+	"https://www.stylevore.com/wp-content/uploads/2020/02/71340327_182588909444321_3030833370893376633_n-1024x1280.jpg",
 	"https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg",
 	"https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg",
 	"https://img.ifunny.co/images/57d245e4a6e7be1099e29faf31e62950686156c37a296ea149e75b704cb8aae0_1.jpg",
@@ -40,9 +40,6 @@ export function Home() {
 		<>
 			<Navbar />
 			<Jumbotron />
-		
-
-			
 
 			<div className="cards-group d-flex justify-content-center">
 				{va.map((item, index) => (
